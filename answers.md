@@ -464,7 +464,7 @@ Most of the technical questions should have a three sentence response in the EUE
 - [ ] What is the difference between `==` and `===`?
   - **Explanation:**== (double equal) operator compares just value and not data type. === (triple equal) operator compares value and data type
   - **Use:**
-  - **Example:**
+  - **Example:** '10' !== 10 but '10'==='10'
   - **Source:**
 - [ ] Explain the same-origin policy with regards to JavaScript.
   - **Explanation:**
