@@ -294,7 +294,7 @@ Most of the technical questions should have a three sentence response in the EUE
   - **Example:**
   - **Source:**
 - [ ] What's the difference between `inline` and `inline-block`?
-  - **Explanation:**
+  - **Explanation:**Inline-block continues at the same line
   - **Use:**
   - **Example:**
   - **Source:**
