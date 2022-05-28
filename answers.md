@@ -33,10 +33,10 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Cause:**Once I had to send an email to all our clients about a planned outage but it did not reach all recipients.
   - **Action:**I followed up with all the primary contacts of our clients to make sure they got the email.
   - **Result:**I was able confirm that everyone knew about the outage and clients were very appreciative for that.
-- [ ] Tell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+- [x] Tell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?
+  - **Cause:**At Noris Medical I used to work closely with several sales reps and sometimes a territory didn't have a designed sales rep so whoever was available or close to the area could get the client. Once one sales rep accused another of getting the commission that was supposed to be theirs. 
+  - **Action:**I sat with each rep separately to try to understand what happened and then went to my boss to clarify the situation.
+  - **Result:**The commission was split between the reps and that territory was assigned to one of the reps to avoid further problems.
 - [ ] Give me an example of a time you had to take a creative and unusual approach to solve coding problem. How did this idea come to your mind? Why do you think it was unusual?
   - **Cause:**
   - **Action:**
