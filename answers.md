@@ -462,7 +462,7 @@ Most of the technical questions should have a three sentence response in the EUE
   - **Example:**
   - **Source:**
 - [ ] What is the difference between `==` and `===`?
-  - **Explanation:**
+  - **Explanation:**two equals means same data but not same type
   - **Use:**
   - **Example:**
   - **Source:**
