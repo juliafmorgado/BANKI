@@ -462,7 +462,7 @@ Most of the technical questions should have a three sentence response in the EUE
   - **Example:**
   - **Source:**
 - [ ] What is the difference between `==` and `===`?
-  - **Explanation:**two equals means same data but not same type
+  - **Explanation:**== (double equal) operator compares just value and not data type. === (triple equal) operator compares value and data type
   - **Use:**
   - **Example:**
   - **Source:**
