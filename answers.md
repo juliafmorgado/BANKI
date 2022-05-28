@@ -643,7 +643,7 @@ Most of the technical questions should have a three sentence response in the EUE
 ### Node
 
 - [ ] What is Node.js? Where can you use it?
-  - **Explanation:**
+  - **Explanation:**Node.js is a runtime for javascript
   - **Use:**
   - **Example:**
   - **Source:**
