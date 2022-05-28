@@ -57,7 +57,7 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Cause:**I planned the redesign of the company's website
   - **Action:** 
   - **Result:**
-- [ ] Tell me about a situation when you made a mistake at work. What happened exactly and how did you deal with it? What steps did you take to improve the situation?
+- [x] Tell me about a situation when you made a mistake at work. What happened exactly and how did you deal with it? What steps did you take to improve the situation?
   - **Cause:**I sent an email to the wrong people/clients
   - **Action:**Sent an email right after apologizing for the confusion and explaining the issue didn't concern them
   - **Result:**
