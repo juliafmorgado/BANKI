@@ -42,9 +42,9 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:**
   - **Result:**
 - [ ] Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+  - **Cause:**I created ads for our website, landing pages and graphics
+  - **Action:**Because we didn't bid enough the ads didn't perform very well
+  - **Result:**I learned that money matters lol
 - [ ] Give an example of an important project goal you reached and how you achieved it.
   - **Cause:**Redesigning the company's website
   - **Action:**Brainstormed with the AMs what we should change/add on the website, created a scrum board. Met every other day with my manager to assess the progress of the project.
