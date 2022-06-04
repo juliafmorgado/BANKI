@@ -23,20 +23,24 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 
 - [x] Give me an example of a project or initiative that you started on your own. What prompted you to get started?
   - **Cause:** The website at my current company was outdated, with poor user experience and not getting a lot of traffic.
-  - **Action:**I learned HTML and CSS and started rebuilding it.
-  - **Result:**The website's traffic increased 200% and we got more than 15 new clients from it.
+  - **Action:**I decided to revamp it. I learned HTML and CSS rebuilt the website from scratch.
+  - **Result:**The website's traffic increased by 200% and we got more than 15 new clients from it.
+  
 - [x] Tell me about a time you had to work on several projects at once. How did you handle this?
   - **Cause:**Being the solo marketer at my company, I always had to work on several project at once.
-  - **Action:**I was very good at time management, putting every single task on Clickup and had an open communication with my manager about goals, plans, expectations, outsourcing...
-  - **Result:**I was able to run several marketing campaigns at the same time while doing other marketing related activities (assist sales team by creating documentation, redesigning the website...)
+  - **Action:**I excelled at time management, putting every single task on Clickup and kept an open communication with my manager about goals, plans, expectations, outsourcing...
+  - **Result:**I developed a workflow strategy for others to use.
+
 - [x] Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?
   - **Cause:**Once I had to send an email to all our clients about a planned outage but it did not reach all recipients.
   - **Action:**I followed up with all the primary contacts of our clients to make sure they got the email.
   - **Result:**I was able confirm that everyone knew about the outage and clients were very appreciative for that.
+
 - [x] Tell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?
   - **Cause:**At Noris Medical I used to work closely with several sales reps and sometimes a territory didn't have a designed sales rep so whoever was available or close to the area could get the client. Once one sales rep accused another of getting the commission that was supposed to be theirs. 
   - **Action:**I sat with each rep separately to try to understand what happened and then went to my boss to clarify the situation.
   - **Result:**The commission was split between the reps and that territory was assigned to one of the reps to avoid further problems.
+
 - [ ] Give me an example of a time you had to take a creative and unusual approach to solve coding problem. How did this idea come to your mind? Why do you think it was unusual?
   - **Cause:**
   - **Action:**
