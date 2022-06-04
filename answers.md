@@ -32,14 +32,14 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Result:**I developed a workflow strategy for others to use.
 
 - [x] Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?
-  - **Cause:**Once I had to send an email to all our clients about a planned outage but it did not reach all recipients.
-  - **Action:**I followed up with all the primary contacts of our clients to make sure they got the email.
-  - **Result:**I was able confirm that everyone knew about the outage and clients were very appreciative for that.
+  - **Cause:**When the new website was ready to go live, I asked the techs to change the DNS settings (because we were also migrating the website to a new CMS). I didn't communicate well and they ended up adding a different nameserver in the DNS setting.
+  - **Action:**I 
+  - **Result:**I created a documentation for the next times the DNS settings need to be updated
 
 - [x] Tell me about when you had to deal with conflict within your team. How was the conflict solved? How did you handle that? How would you deal with it now?
-  - **Cause:**At Noris Medical I used to work closely with several sales reps and sometimes a territory didn't have a designed sales rep so whoever was available or close to the area could get the client. Once one sales rep accused another of getting the commission that was supposed to be theirs. 
-  - **Action:**I sat with each rep separately to try to understand what happened and then went to my boss to clarify the situation.
-  - **Result:**The commission was split between the reps and that territory was assigned to one of the reps to avoid further problems.
+  - **Cause:**In my past experience, I was working with an old website that had a bad user experience and no one was stepping up to improve it. I offered to do it but the techs said it was way out of my scope.
+  - **Action:** I created a website redesign project plan with some mock-ups and presented it to my manager. He was impressed and approved my project.
+  - **Result:**As a result, the new website doubled its traffic and became the main source of clients.
 
 - [ ] Give me an example of a time you had to take a creative and unusual approach to solve coding problem. How did this idea come to your mind? Why do you think it was unusual?
   - **Cause:**
