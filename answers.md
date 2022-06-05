@@ -47,54 +47,65 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Result:**
 
 - [x] Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?
-  - **Cause:**I created ads for our website, landing pages and graphics
-  - **Action:**Because we didn't bid enough the ads didn't perform very well
-  - **Result:**I learned that money matters lol
+  - **Cause:**
+  - **Action:**
+  - **Result:**
 
 - [x] Give an example of an important project goal you reached and how you achieved it.
   - **Cause:**Redesigning the company's website
   - **Action:**Brainstormed with the AMs what we should change/add on the website, created a scrum board. Met every other day with my manager to assess the progress of the project.
   - **Result:**After 2 months I was able to deploy the new site live.
+
 - [ ] Describe a situation in which you experienced difficulty in getting others to accept your ideas? What was your approach? How did this work? Were you able to successfully persuade someone to see things your way
-  - **Cause:**
-  - **Action:**
-  - **Result:**
+  - **Cause:**At my last job I worked on consolidating and centralizing all our documentation in one place (IT glue) but I didn't get the buy-in from some employees. They were used to their way of doing things so they didn't want to change. So for the first few months I had to manually check if they had created new documentation and put it in IT glue.
+  - **Action:**I ended up doing 3 trainings for the employees to show how IT glue worked and why it was beneficial if the whole company used it.
+  - **Result:**I streamlined the documentation process, enhanced visibility on missing documentation and the ability to audit assets on different levels
+
 - [ ] Tell me about a situation when you were responsible for project planning. Did everything go according to your plan? If not, then why and what kind of counteractions did you have to take?
   - **Cause:**I planned the redesign of the company's website
   - **Action:** 
   - **Result:**
+
 - [ ] Tell me about a situation when you made a mistake at work. What happened exactly and how did you deal with it? What steps did you take to improve the situation?
   - **Cause:**I sent the report from one client to another client
   - **Action:**Sent an email right after apologizing for the confusion and explaining the report wasn't for them and for them to ignore it. To the right client I explained the mistake I made and assured them they wouldn't get affe
   - **Result:**
+
 - [ ] Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation? Did you discuss your concern with your coworker? With your manager? If yes, how did your coworker respond to your concern? What was your manager's response?
   - **Cause:**
   - **Action:**
   - **Result:**
+
 - [ ] Describe a situation when you worked effectively under pressure. How did you feel when working under pressure? What was going on, and how did you get through it?
   - **Cause:**
   - **Action:**
   - **Result:**
+
 - [ ] Tell me about yourself.
   - **Cause:**
   - **Action:**
   - **Result:**
+
 - [ ] Tell me about your experience at 100Devs.
   - **Cause:**
   - **Action:**
   - **Result:**
+
 - [ ] What do you know about our company?
   - **Cause:**
   - **Action:**
   - **Result:**
+
 - [ ] Why do you want to work for us?
   - **Cause:**
   - **Action:**
   - **Result:**
+
 - [ ] Why are you interested in this opportunity?
   - **Cause:**
   - **Action:**
   - **Result:**
+
 - [ ] Tell me about your dream job?  What do you really want to do with your career?
   - **Cause:**
   - **Action:**
@@ -103,14 +114,17 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Cause:**
   - **Action:**
   - **Result:**
+
 - [ ] What do you read on a regular basis?
   - **Cause:**
   - **Action:**
   - **Result:**
+
 - [ ] What's some critical feedback you've gotten recently?
   - **Cause:**
   - **Action:**
   - **Result:**
+  
 - [ ] Do you have any questions?
   - **Cause:**
   - **Action:**
