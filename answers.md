@@ -42,13 +42,15 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Result:**As a result, the new website doubled its traffic and became the main source of clients.
 
 - [ ] Give me an example of a time you had to take a creative and unusual approach to solve coding problem. How did this idea come to your mind? Why do you think it was unusual?
-  - **Cause:**
-  - **Action:**
+  - **Cause:**I was creating an app for xxx but the code wasn't working.
+  - **Action:**I decided to xxxxx
   - **Result:**
+
 - [x] Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?
   - **Cause:**I created ads for our website, landing pages and graphics
   - **Action:**Because we didn't bid enough the ads didn't perform very well
   - **Result:**I learned that money matters lol
+
 - [x] Give an example of an important project goal you reached and how you achieved it.
   - **Cause:**Redesigning the company's website
   - **Action:**Brainstormed with the AMs what we should change/add on the website, created a scrum board. Met every other day with my manager to assess the progress of the project.
