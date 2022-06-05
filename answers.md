@@ -59,7 +59,7 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 - [ ] Describe a situation in which you experienced difficulty in getting others to accept your ideas? What was your approach? How did this work? Were you able to successfully persuade someone to see things your way
   - **Cause:**At my last job I worked on consolidating and centralizing all our documentation in one place (IT glue) but I didn't get the buy-in from some employees. They were used to their way of doing things so they didn't want to change. So for the first few months I had to manually check if they had created new documentation and put it in IT glue.
   - **Action:**I ended up doing 3 trainings for the employees to show how IT glue worked and why it was beneficial if the whole company used it.
-  - **Result:**I streamlined the documentation process, enhanced visibility on missing documentation and the ability to audit assets on different levels
+  - **Result:**By streamlining the documentation process, we enhanced visibility on missing documentation and the ability to audit assets on different levels
 
 - [ ] Tell me about a situation when you were responsible for project planning. Did everything go according to your plan? If not, then why and what kind of counteractions did you have to take?
   - **Cause:**I planned the redesign of the company's website
@@ -124,7 +124,7 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Cause:**
   - **Action:**
   - **Result:**
-  
+
 - [ ] Do you have any questions?
   - **Cause:**
   - **Action:**
