@@ -62,14 +62,14 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Result:**By streamlining the documentation process, we enhanced visibility on missing documentation and the ability to audit assets on different levels
 
 - [ ] Tell me about a situation when you were responsible for project planning. Did everything go according to your plan? If not, then why and what kind of counteractions did you have to take?
-  - **Cause:**I planned the redesign of the company's website
+  - **Cause:** Planning the company website's redesign was one of the biggest projects I've had and it didn't go entirely as planned.
   - **Action:** 
-  - **Result:**
+  - **Result:** because not only I had to learn technical languages for it, I had to learn a lot about project management as well.
 
 - [ ] Tell me about a situation when you made a mistake at work. What happened exactly and how did you deal with it? What steps did you take to improve the situation?
   - **Cause:**I sent the report from one client to another client
   - **Action:**Sent an email right after apologizing for the confusion and explaining the report wasn't for them and for them to ignore it. To the right client I explained the mistake I made and assured them they wouldn't get affe
-  - **Result:**
+  - **Result:**Created a form and documented the process
 
 - [ ] Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation? Did you discuss your concern with your coworker? With your manager? If yes, how did your coworker respond to your concern? What was your manager's response?
   - **Cause:**
