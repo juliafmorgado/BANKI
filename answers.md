@@ -31,8 +31,8 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:**I excelled at time management, putting every single task on Clickup and kept an open communication with my manager about goals, plans, expectations, outsourcing...
   - **Result:**I developed a workflow strategy for others to use.
 
-- [x] Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?
-  - **Cause:**When the new website was ready to go live, I asked the techs to change the DNS settings (because we were also migrating the website to a new CMS). I didn't communicate well and they ended up adding a different nameserver in the DNS setting.
+- [ ] Describe a situation in which you felt you had not communicated well enough. What did you do? How did you handle it?
+  - **Cause:**When the new website was ready to be migrated, I asked the techs to change the DNS settings (because we were also migrating the website to a new CMS). I didn't communicate well and they ended up adding a different nameserver in the DNS setting. We ended up have some downtime.
   - **Action:**I 
   - **Result:**I created a documentation for the next times the DNS settings need to be updated
 
@@ -46,17 +46,17 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Action:**I decided to xxxxx
   - **Result:**
 
-- [x] Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?
+- [ ] Describe a situation in which you worked diligently on a project and it did not produce the desired results. Why didn't you get the desired results? What did you learn from the experience?
   - **Cause:**
   - **Action:**
   - **Result:**
 
-- [x] Give an example of an important project goal you reached and how you achieved it.
+- [ ] Give an example of an important project goal you reached and how you achieved it.
   - **Cause:**Redesigning the company's website
   - **Action:**Brainstormed with the AMs what we should change/add on the website, created a scrum board. Met every other day with my manager to assess the progress of the project.
   - **Result:**After 2 months I was able to deploy the new site live.
 
-- [ ] Describe a situation in which you experienced difficulty in getting others to accept your ideas? What was your approach? How did this work? Were you able to successfully persuade someone to see things your way
+- [x] Describe a situation in which you experienced difficulty in getting others to accept your ideas? What was your approach? How did this work? Were you able to successfully persuade someone to see things your way
   - **Cause:**At my last job I worked on consolidating and centralizing all our documentation in one place (IT glue) but I didn't get the buy-in from some employees. They were used to their way of doing things so they didn't want to change. So for the first few months I had to manually check if they had created new documentation and put it in IT glue.
   - **Action:**I ended up doing 3 trainings for the employees to show how IT glue worked and why it was beneficial if the whole company used it.
   - **Result:**By streamlining the documentation process, we enhanced visibility on missing documentation and the ability to audit assets on different levels
