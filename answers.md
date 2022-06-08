@@ -88,7 +88,7 @@ Most of the behavioral questions should be answered in the CAR format. At least 
 
 - [ ] Tell me about your experience at 100Devs.
   - **Cause:**
-  - **Action:**
+  - **Action:**freelancing, 
   - **Result:**
 
 - [ ] What do you know about our company?
