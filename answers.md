@@ -82,7 +82,7 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Result:**
 
 - [ ] Tell me about yourself.
-  - **Cause:**from brazil
+  - **Cause:**from brazil, lawyer
   - **Action:**
   - **Result:**
 
