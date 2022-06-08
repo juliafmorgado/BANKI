@@ -72,7 +72,7 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Result:**Created a form and documented the process
 
 - [ ] Tell me about a time when you worked with someone who was not completing his or her share of the work. How did you handle the situation? Did you discuss your concern with your coworker? With your manager? If yes, how did your coworker respond to your concern? What was your manager's response?
-  - **Cause:**
+  - **Cause:**intern
   - **Action:**
   - **Result:**
 
