@@ -67,7 +67,7 @@ Most of the behavioral questions should be answered in the CAR format. At least 
   - **Result:** because not only I had to learn technical languages for it, I had to learn a lot about project management as well.
 
 - [ ] Tell me about a situation when you made a mistake at work. What happened exactly and how did you deal with it? What steps did you take to improve the situation?
-  - **Cause:**I sent the report from one client to another 
+  - **Cause:**I sent the report from one client to another client
   - **Action:**Sent an email right after apologizing for the confusion and explaining the report wasn't for them and for them to ignore it. To the right client I explained the mistake I made and assured them they wouldn't get affe
   - **Result:**Created a form and documented the process
 
