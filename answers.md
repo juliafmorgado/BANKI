@@ -146,7 +146,7 @@ Most of the technical questions should have a three sentence response in the EUE
   - **Example:**For HTML5 docs the doctype should be the 1st declarations in the doc.
   - **Source:**
 - [ ] How do you serve a page with content in multiple languages?
-  - **Explanation:**
+  - **Explanation:**To change the language, just simply set the lang attribute. We can define it anywhere in the document, such as in the body, in the paragraph, in the heading, or in the span tag. But the best practice is to set the lang in the span tag.
   - **Use:**
   - **Example:**
   - **Source:**
